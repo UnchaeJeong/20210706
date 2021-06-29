@@ -1,5 +1,7 @@
 import requests
-from lxml import html
+from lxml import\
+
+    html
 
 url = "https://news.naver.com/"
 

@@ -1,0 +1,26 @@
+페이지	좋아요	제목	작성자	날짜	URL
+0	17	'몸값 1500억' 밀리의 서재, 내년 증시 상장	황금빛	2021-06-25	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004567432
+0	16	신세계, 이베이코리아 3.5조에 인수 확정···그룹 역사상 최대	황금빛	2021-06-24	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003927809
+0	15	신입 연봉 6천 '꿈의 직장'이라더니…끝나지 않은 '판교의 눈물'	정의민 기자	2021-06-25	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=015&aid=0004567856
+0	14	AI 스타트업 '보이저엑스', 300억원 시리즈A 투자 유치	조혜리	2021-06-23	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=421&aid=0005431375
+0	13	데카콘 노리는 ‘비바리퍼블리카’, 4,600억원 신규 투자 유치… 기업가치 8.2조원	황금빛	2021-06-23	https://platum.kr/archives/165410?fbclid=IwAR3c-DFeJt_8Q4aQ91cK8lmAClhItf374L2gnVGUS9iXaqq7T5hU856HSV8
+0	13	중국의 실리콘밸리 선전 "우리도 알리바바 같은 회사 키워내겠다"	황금빛	2021-06-25	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=104&oid=009&aid=0004814438
+0	12	‘카뱅’ 노조위원장 인터뷰 “조직문화 점점 경직…비정규직 차별 해소”	황금빛	2021-06-23	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003081321
+0	12	넷마블, 뷰티·건강 플랫폼 만든다..넷마블힐러비 설립	황금빛	2021-06-25	https://news.v.daum.net/v/20210623165141425?fbclid=IwAR1YyY5c-306iZzVZffgfOl0vJDOnNR-vzmvWuOGtGZZqGMGwbR73OlwvW4
+0	12	MS, ‘시총 2조 달러 클럽’ 가입… 애플 이어 두번째	황금빛	2021-06-25	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=021&aid=0002476055
+0	12	구글, ‘쿠키’ 퇴출 시기 2023년 말로 연기	황금빛	2021-06-25	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=104&oid=056&aid=0011070497
+0	11	OKR은 그래서 실패한다	임종헌	2021-06-23	https://brunch.co.kr/@yeobag/51
+0	11	네이버-왓패드, 통합 '스튜디오' 설립..글로벌 영상사업 기금 천억 투자	임종헌	2021-06-24	https://news.v.daum.net/v/20210624130009258
+0	10	구글, 웹툰 수수료 결국 15%로 깎는다…네이버 카카오 등 콘텐츠 플랫폼 '달래기'	황금빛	2021-06-24	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=009&aid=0004813225
+0	10	"무조건 돈 쓰지 않아…쿠팡플레이, 쿠팡스타일대로 간다"	황금빛	2021-06-24	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=025&aid=0003112533
+0	10	좋은 개발자느님을 찾습니다	임종헌	2021-06-24	https://now.rememberapp.co.kr/2021/06/24/13382/
+0	9	"일할 사람 부족하다"...벤처업계 주52시간제, 1년 유예 요구	조혜리	2021-06-22	https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=101&sid2=771&oid=030&aid=0002952399
+0	7	스타트업 이직 희망 이유? “성장 가능성 높은 곳에서 일하고 싶어서”	임종헌	2021-06-25	https://platum.kr/archives/165603
+0	7	"돈 있어도 투자 못해"…치열해진 VC 생존경쟁	임종헌	2021-06-22	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=018&aid=0004963152
+0	7	W컨셉 매각이 불러온 '나비효과'	임종헌	2021-06-22	https://n.news.naver.com/article/015/0004565578?
+0	7	엔씨 "리니지 베끼기, 경고!"…지금 게임업계는 지재권 전쟁 중	조혜리	2021-06-22	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=119&aid=0002504257
+0	7	직장인 대나무숲 '블라인드'를 어찌할꼬… 기업들 골머리	조혜리	2021-06-22	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=469&aid=0000612437
+0	7	명품 렌털 플랫폼 리본즈 코리아, 105억 시리즈A 유치	조혜리	2021-06-22	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003926511
+0	7	동물병원 문턱 낮춘 핏펫, 230억원 투자 유치…펫스타트업 중 최대	조혜리	2021-06-22	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005426860
+0	6	"쿠팡 탈퇴→쿠팡이츠도 자동 탈퇴" 아이디 연동이 키운 '부메랑 불매'	임종헌	2021-06-24	https://news.v.daum.net/v/20210623192619055
+0	6	카카오 암호화폐 '클레이', 세계 최대 거래소 '바이낸스'에 상장	조혜리	2021-06-24	https://news.v.daum.net/v/20210624140847734

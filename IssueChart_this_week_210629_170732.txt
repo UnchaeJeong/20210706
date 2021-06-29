@@ -1,0 +1,51 @@
+페이지	좋아요	제목	작성자	날짜	URL
+1	17	'몸값 1500억' 밀리의 서재, 내년 증시 상장	황금빛	2021-06-25	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004567432
+1	16	신세계, 이베이코리아 3.5조에 인수 확정···그룹 역사상 최대	황금빛	2021-06-24	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003927809
+1	15	신입 연봉 6천 '꿈의 직장'이라더니…끝나지 않은 '판교의 눈물'	정의민 기자	2021-06-25	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=015&aid=0004567856
+1	14	AI 스타트업 '보이저엑스', 300억원 시리즈A 투자 유치	조혜리	2021-06-23	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=421&aid=0005431375
+1	13	데카콘 노리는 ‘비바리퍼블리카’, 4,600억원 신규 투자 유치… 기업가치 8.2조원	황금빛	2021-06-23	https://platum.kr/archives/165410?fbclid=IwAR3c-DFeJt_8Q4aQ91cK8lmAClhItf374L2gnVGUS9iXaqq7T5hU856HSV8
+1	13	중국의 실리콘밸리 선전 "우리도 알리바바 같은 회사 키워내겠다"	황금빛	2021-06-25	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=104&oid=009&aid=0004814438
+1	12	‘카뱅’ 노조위원장 인터뷰 “조직문화 점점 경직…비정규직 차별 해소”	황금빛	2021-06-23	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003081321
+1	12	넷마블, 뷰티·건강 플랫폼 만든다..넷마블힐러비 설립	황금빛	2021-06-25	https://news.v.daum.net/v/20210623165141425?fbclid=IwAR1YyY5c-306iZzVZffgfOl0vJDOnNR-vzmvWuOGtGZZqGMGwbR73OlwvW4
+1	12	MS, ‘시총 2조 달러 클럽’ 가입… 애플 이어 두번째	황금빛	2021-06-25	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=021&aid=0002476055
+1	12	구글, ‘쿠키’ 퇴출 시기 2023년 말로 연기	황금빛	2021-06-25	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=104&oid=056&aid=0011070497
+1	11	OKR은 그래서 실패한다	임종헌	2021-06-23	https://brunch.co.kr/@yeobag/51
+1	11	네이버-왓패드, 통합 '스튜디오' 설립..글로벌 영상사업 기금 천억 투자	임종헌	2021-06-24	https://news.v.daum.net/v/20210624130009258
+1	10	구글, 웹툰 수수료 결국 15%로 깎는다…네이버 카카오 등 콘텐츠 플랫폼 '달래기'	황금빛	2021-06-24	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=009&aid=0004813225
+1	10	"무조건 돈 쓰지 않아…쿠팡플레이, 쿠팡스타일대로 간다"	황금빛	2021-06-24	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=025&aid=0003112533
+1	10	좋은 개발자느님을 찾습니다	임종헌	2021-06-24	https://now.rememberapp.co.kr/2021/06/24/13382/
+1	9	"일할 사람 부족하다"...벤처업계 주52시간제, 1년 유예 요구	조혜리	2021-06-22	https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=101&sid2=771&oid=030&aid=0002952399
+1	7	스타트업 이직 희망 이유? “성장 가능성 높은 곳에서 일하고 싶어서”	임종헌	2021-06-25	https://platum.kr/archives/165603
+1	7	"돈 있어도 투자 못해"…치열해진 VC 생존경쟁	임종헌	2021-06-22	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=018&aid=0004963152
+1	7	W컨셉 매각이 불러온 '나비효과'	임종헌	2021-06-22	https://n.news.naver.com/article/015/0004565578?
+1	7	엔씨 "리니지 베끼기, 경고!"…지금 게임업계는 지재권 전쟁 중	조혜리	2021-06-22	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=119&aid=0002504257
+1	7	직장인 대나무숲 '블라인드'를 어찌할꼬… 기업들 골머리	조혜리	2021-06-22	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=469&aid=0000612437
+1	7	명품 렌털 플랫폼 리본즈 코리아, 105억 시리즈A 유치	조혜리	2021-06-22	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003926511
+1	7	동물병원 문턱 낮춘 핏펫, 230억원 투자 유치…펫스타트업 중 최대	조혜리	2021-06-22	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005426860
+1	6	"쿠팡 탈퇴→쿠팡이츠도 자동 탈퇴" 아이디 연동이 키운 '부메랑 불매'	임종헌	2021-06-24	https://news.v.daum.net/v/20210623192619055
+1	6	카카오 암호화폐 '클레이', 세계 최대 거래소 '바이낸스'에 상장	조혜리	2021-06-24	https://news.v.daum.net/v/20210624140847734
+2	6	유튜브 “2017년 1월 이전 비공개 영상은 모두…”	임종헌	2021-06-25	https://techrecipe.co.kr/posts/30524
+2	6	JTBC 스튜디오, 콘텐츠지음 등 제작사 3곳 인수…경쟁력 강화	임종헌	2021-06-25	https://entertain.naver.com/read?oid=018&aid=0004966246
+2	6	"형식 파괴·가상현실 모두 OK"...대세로 자리잡은 ‘쇼트폼’과 ‘가상’	황금빛	2021-06-25	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=092&aid=0002225982
+2	6	총알·새벽배송 꼭 필요한가요? 쿠팡이 쏘아올린 배송 논쟁	임종헌	2021-06-28	https://news.v.daum.net/v/20210626030608164
+2	6	안데르센 호로위츠, 22억 달러 규모 암호자산 펀드 설립	임종헌	2021-06-28	https://techrecipe.co.kr/posts/30605
+2	5	1년간 가장 인기 끈 금융데이터는?	조혜리	2021-06-23	https://byline.network/2021/06/22-134/
+2	5	심상찮은 국제유가..2년 만에 최고점 찍었다	조혜리	2021-06-23	https://news.v.daum.net/v/20210623115105116
+2	5	네이버 '동네시장 장보기' 100호 돌파…거래액 1500% 증가	황금빛	2021-06-23	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=277&aid=0004924935
+2	5	릴레이 상장폐지 속 살아남는 코인 판별법	임종헌	2021-06-23	https://news.v.daum.net/v/20210623132609590
+2	5	계란 팔아 연매출 140억원, ‘애월아빠들’의 비밀	임종헌	2021-06-24	https://byline.network/2021/06/24-119/
+2	5	올 주가 3448% 껑충 ‘쿠키런’…‘2박3일 제주 합숙’이 출발점	황금빛	2021-06-24	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=025&aid=0003112908
+2	5	윈도우 안으로 안드로이드 앱 생태계를 끌어들이다..베일 벗은 'MS 윈도우11'	임종헌	2021-06-25	https://news.v.daum.net/v/20210625085408301
+2	5	역시 플랫폼이어라…테크핀 업체의 기업가치	임종헌	2021-06-25	https://byline.network/2021/06/24-127/
+2	5	한국출판인회의, '구글 인앱결제 강제화 저지' 온라인 서명	정의민 기자	2021-06-25	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=018&aid=0004967142
+2	5	新 소재는 과연 지속가능한 과학일까?	임종헌	2021-06-25	http://fpost.co.kr/board/bbs/board.php?bo_table=special&wr_id=697
+2	5	소비자 반응 없는 우리 회사 홍보글, 뭐가 문제일까?	임종헌	2021-06-25	https://m.post.naver.com/viewer/postView.naver?volumeNo=31828130&memberNo=22700030
+2	5	트위터가 구독 서비스로 노리는 것	임종헌	2021-06-25	https://medium.com/%EB%A7%A5%EA%B0%A4%EB%9F%AC%EB%A6%AC/%ED%8A%B8%EC%9C%84%ED%84%B0%EA%B0%80-%EA%B5%AC%EB%8F%85-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C-%EB%85%B8%EB%A6%AC%EB%8A%94-%EA%B2%83-b03460ceac7
+2	5	기술 앞세워 글로벌 시장 공략에 나서는 AI 스타트업들	임종헌	2021-06-25	http://www.aitimes.kr/news/articleView.html?idxno=21461
+2	5	‘망 사용료 소송’ 패소한 넷플릭스…줄소송 이어질 가능성도	황금빛	2021-06-25	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=016&aid=0001853212
+2	5	'카카오맵 어쩌나'⋯한진, 택배차량 활용' 거리뷰+도로정보 DB수집' 신사업 진행	임종헌	2021-06-28	https://www.asiatime.co.kr/article/20210628500055
+2	5	이베이 안고 2등 된 이마트, 앞으로 유통업계는?	임종헌	2021-06-28	https://now.rememberapp.co.kr/2021/06/28/13423/
+2	5	구글의 흑인 창업자 펀드와 다양성 문제	임종헌	2021-06-28	https://techneedle.com/archives/41912
+2	5	넷플릭스 공짜망 사용 '세기의 소송' 결론은?	조혜리	2021-06-22	https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=008&aid=0004605292
+2	4	“몰락의 씨앗은 잘 나갈때 뿌려진다” 위기의 실리콘밸리 리더십	황금빛	2021-06-23	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003621658
+2	4	“트위터 트렌드, 절반 가까이는 봇으로 조작한 것”	임종헌	2021-06-23	https://techrecipe.co.kr/posts/29846
