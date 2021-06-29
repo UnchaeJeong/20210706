@@ -3,7 +3,7 @@ from lxml import html
 import time
 
 keyword = '킥보드' #파일이름적어주려고
-input_file_name = 'naver_news_킥보드_210625_091814.txt'
+input_file_name = 'naver_news_NH증권_210625_161315.txt'
 
 output_file_main_name = 'naver_news_main_' + keyword + "_" + time.strftime("%y%m%d_%H%M%S") + '.txt'
 output_file_main = open(output_file_main_name, "w", encoding="utf-8")
