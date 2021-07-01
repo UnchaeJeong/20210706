@@ -1,3 +1,0 @@
-c:
-cd \C:\Users\medici\python_base\dist
-Selnenium__1.exe 도지,비트코인
