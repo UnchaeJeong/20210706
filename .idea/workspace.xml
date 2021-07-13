@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe7fbc5d-b6fd-458a-84f2-1f62e3040b6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_12_R/R_project" beforeDir="false" afterPath="$PROJECT_DIR$/7_12_R/R_project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_12_R/R_project/R code.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/7_12_R/R_project" />
   </component>
   <component name="ProjectId" id="1vGBqkjFOXcw8PBGf9gZbJcsIuN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,6 +33,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626178738457</updated>
       <workItem from="1626178740901" duration="515000" />
+      <workItem from="1626179275957" duration="1571000" />
     </task>
     <servers />
   </component>
