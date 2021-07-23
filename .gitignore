@@ -12,4 +12,5 @@ data2/
 data3/
 data4/
 *.exe
-
+*.img
+	
