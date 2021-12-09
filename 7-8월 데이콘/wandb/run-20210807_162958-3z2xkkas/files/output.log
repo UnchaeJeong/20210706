@@ -1,0 +1,21 @@
+
+[0]	validation_0-mlogloss:0.93040	validation_1-mlogloss:0.96712
+[100]	validation_0-mlogloss:0.12441	validation_1-mlogloss:0.81687
+[115]	validation_0-mlogloss:0.11147	validation_1-mlogloss:0.83647
+0 Fold, train logloss : 0.42554, validation logloss : 0.7138
+[0]	validation_0-mlogloss:0.93518	validation_1-mlogloss:0.96936
+[100]	validation_0-mlogloss:0.12891	validation_1-mlogloss:0.84655
+[114]	validation_0-mlogloss:0.11342	validation_1-mlogloss:0.86913
+1 Fold, train logloss : 0.42534, validation logloss : 0.7341
+[0]	validation_0-mlogloss:0.96574	validation_1-mlogloss:0.99117
+[100]	validation_0-mlogloss:0.12850	validation_1-mlogloss:0.83988
+[117]	validation_0-mlogloss:0.10843	validation_1-mlogloss:0.86897
+2 Fold, train logloss : 0.42184, validation logloss : 0.7312
+[0]	validation_0-mlogloss:0.95898	validation_1-mlogloss:0.98726
+[100]	validation_0-mlogloss:0.12695	validation_1-mlogloss:0.83883
+[115]	validation_0-mlogloss:0.11052	validation_1-mlogloss:0.86533
+3 Fold, train logloss : 0.41834, validation logloss : 0.7163
+[0]	validation_0-mlogloss:0.96654	validation_1-mlogloss:0.99113
+[100]	validation_0-mlogloss:0.12999	validation_1-mlogloss:0.83981
+[118]	validation_0-mlogloss:0.11150	validation_1-mlogloss:0.87015
+4 Fold, train logloss : 0.41544, validation logloss : 0.7256

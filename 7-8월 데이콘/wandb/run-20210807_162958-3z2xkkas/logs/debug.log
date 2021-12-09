@@ -1,0 +1,26 @@
+2021-08-07 16:29:58,483 INFO    Thread-57 :8628 [wandb_setup.py:_flush():69] setting env: {'project': 'medici wandb test', 'entity': 'unchae', 'root_dir': 'C:\\Users\\medici\\파이썬베이스\\7-8월 데이콘', 'run_id': '3z2xkkas', 'sweep_param_path': 'C:\\Users\\medici\\파이썬베이스\\7-8월 데이콘\\wandb\\sweep-p0hwfbf7\\config-3z2xkkas.yaml', 'sweep_id': 'p0hwfbf7'}
+2021-08-07 16:29:58,484 INFO    Thread-57 :8628 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-08-07 16:29:58,484 INFO    Thread-57 :8628 [wandb_init.py:_log_setup():338] Logging user logs to C:\Users\medici\파이썬베이스\7-8월 데이콘\wandb\run-20210807_162958-3z2xkkas\logs\debug.log
+2021-08-07 16:29:58,485 INFO    Thread-57 :8628 [wandb_init.py:_log_setup():339] Logging internal logs to C:\Users\medici\파이썬베이스\7-8월 데이콘\wandb\run-20210807_162958-3z2xkkas\logs\debug-internal.log
+2021-08-07 16:29:58,487 INFO    Thread-57 :8628 [wandb_init.py:init():371] calling init triggers
+2021-08-07 16:29:58,488 INFO    Thread-57 :8628 [wandb_init.py:init():376] wandb.init called with sweep_config: {'colsample_bytree': 0.7292639877332963, 'max_depth': 15, 'subsample': 0.9889245231389854}
+config: {}
+2021-08-07 16:29:58,489 INFO    Thread-57 :8628 [wandb_init.py:init():420] starting backend
+2021-08-07 16:29:58,489 INFO    Thread-57 :8628 [backend.py:_multiprocessing_setup():70] multiprocessing start_methods=spawn, using: spawn
+2021-08-07 16:29:58,498 INFO    Thread-57 :8628 [backend.py:ensure_launched():135] starting backend process...
+2021-08-07 16:29:58,621 INFO    Thread-57 :8628 [backend.py:ensure_launched():139] started backend process with pid: 10852
+2021-08-07 16:29:58,621 INFO    Thread-57 :8628 [wandb_init.py:init():425] backend started and connected
+2021-08-07 16:29:58,632 INFO    Thread-57 :8628 [wandb_run.py:_config_callback():874] config_cb None None {'colsample_bytree': 0.7292639877332963, 'max_depth': 15, 'subsample': 0.9889245231389854}
+2021-08-07 16:29:58,633 INFO    Thread-57 :8628 [wandb_run.py:_label_probe_notebook():846] probe notebook
+2021-08-07 16:29:58,633 INFO    Thread-57 :8628 [wandb_run.py:_label_probe_notebook():853] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2021-08-07 16:29:58,633 INFO    Thread-57 :8628 [wandb_init.py:init():473] updated telemetry
+2021-08-07 16:29:58,634 INFO    Thread-57 :8628 [wandb_init.py:init():492] communicating current version
+2021-08-07 16:30:00,573 INFO    Thread-57 :8628 [wandb_init.py:init():497] got version response 
+2021-08-07 16:30:00,574 INFO    Thread-57 :8628 [wandb_init.py:init():505] communicating run to backend with 30 second timeout
+2021-08-07 16:30:01,013 INFO    Thread-57 :8628 [wandb_init.py:init():530] starting run threads in backend
+2021-08-07 16:30:06,026 INFO    Thread-57 :8628 [wandb_run.py:_console_start():1625] atexit reg
+2021-08-07 16:30:06,028 INFO    Thread-57 :8628 [wandb_run.py:_redirect():1499] redirect: SettingsConsole.WRAP
+2021-08-07 16:30:06,029 INFO    Thread-57 :8628 [wandb_run.py:_redirect():1536] Wrapping output streams.
+2021-08-07 16:30:06,031 INFO    Thread-57 :8628 [wandb_run.py:_redirect():1560] Redirects installed.
+2021-08-07 16:30:06,032 INFO    Thread-57 :8628 [wandb_init.py:init():555] run started, returning control to user process
+2021-08-07 16:31:12,456 INFO    Thread-57 :8628 [wandb_run.py:finish():1295] finishing run unchae/medici wandb test/3z2xkkas

@@ -1,0 +1,11 @@
+Create sweep with ID: p0hwfbf7
+Sweep URL: https://wandb.ai/unchae/medici%20wandb%20test/sweeps/p0hwfbf7
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.
+Categorical Columns:
+['gender', 'car', 'reality', 'income_type', 'edu_type', 'family_type', 'house_type', 'occyp_type']
+Numeric Columns:
+['child_num', 'income_total', 'DAYS_BIRTH', 'DAYS_EMPLOYED', 'FLAG_MOBIL', 'work_phone', 'phone', 'email', 'family_size', 'begin_month']
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[39m[22m: Agent Starting Run: hneiuwbl with config:
+[34m[1mwandb[39m[22m: 	colsample_bytree: 0.6536476992793909
+[34m[1mwandb[39m[22m: 	max_depth: 2

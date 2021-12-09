@@ -1,0 +1,8 @@
+wandb_version: 1
+
+colsample_bytree:
+  value: 0.5295640688492664
+max_depth:
+  value: 14
+subsample:
+  value: 0.921362133573915

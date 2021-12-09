@@ -1,0 +1,752 @@
+2021-08-07 16:18:21,539 INFO    MainThread:8628 [wandb_setup.py:_flush():69] setting env: {}
+2021-08-07 16:18:21,540 INFO    MainThread:8628 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-08-07 16:18:21,541 INFO    MainThread:8628 [wandb_setup.py:_flush():69] setting login settings: {'api_key': '4680ecbdba7b2624c463eb3b8334870bebd67f1e'}
+2021-08-07 16:18:21,542 INFO    MainThread:8628 [wandb_init.py:_log_setup():338] Logging user logs to C:\Users\medici\파이썬베이스\7-8월 데이콘\wandb\run-20210807_161821-1t719i4o\logs\debug.log
+2021-08-07 16:18:21,547 INFO    MainThread:8628 [wandb_init.py:_log_setup():339] Logging internal logs to C:\Users\medici\파이썬베이스\7-8월 데이콘\wandb\run-20210807_161821-1t719i4o\logs\debug-internal.log
+2021-08-07 16:18:21,550 INFO    MainThread:8628 [wandb_init.py:_jupyter_setup():289] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000218371FA700>
+2021-08-07 16:18:21,553 INFO    MainThread:8628 [wandb_init.py:init():371] calling init triggers
+2021-08-07 16:18:21,553 INFO    MainThread:8628 [wandb_init.py:init():376] wandb.init called with sweep_config: {}
+config: {}
+2021-08-07 16:18:21,553 INFO    MainThread:8628 [wandb_init.py:init():420] starting backend
+2021-08-07 16:18:21,554 INFO    MainThread:8628 [backend.py:_multiprocessing_setup():70] multiprocessing start_methods=spawn, using: spawn
+2021-08-07 16:18:21,581 INFO    MainThread:8628 [backend.py:ensure_launched():135] starting backend process...
+2021-08-07 16:18:21,680 INFO    MainThread:8628 [backend.py:ensure_launched():139] started backend process with pid: 4464
+2021-08-07 16:18:21,680 INFO    MainThread:8628 [wandb_init.py:init():425] backend started and connected
+2021-08-07 16:18:21,735 INFO    MainThread:8628 [wandb_run.py:_label_probe_notebook():846] probe notebook
+2021-08-07 16:18:21,736 INFO    MainThread:8628 [wandb_run.py:_label_probe_notebook():853] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2021-08-07 16:18:21,737 INFO    MainThread:8628 [wandb_init.py:init():473] updated telemetry
+2021-08-07 16:18:21,739 INFO    MainThread:8628 [wandb_init.py:init():492] communicating current version
+2021-08-07 16:18:23,651 INFO    MainThread:8628 [wandb_init.py:init():497] got version response 
+2021-08-07 16:18:23,652 INFO    MainThread:8628 [wandb_init.py:init():505] communicating run to backend with 30 second timeout
+2021-08-07 16:18:24,189 INFO    MainThread:8628 [wandb_init.py:init():530] starting run threads in backend
+2021-08-07 16:18:29,229 INFO    MainThread:8628 [wandb_run.py:_console_start():1625] atexit reg
+2021-08-07 16:18:29,231 INFO    MainThread:8628 [wandb_run.py:_redirect():1499] redirect: SettingsConsole.WRAP
+2021-08-07 16:18:29,231 INFO    MainThread:8628 [wandb_run.py:_redirect():1536] Wrapping output streams.
+2021-08-07 16:18:29,233 INFO    MainThread:8628 [wandb_run.py:_redirect():1560] Redirects installed.
+2021-08-07 16:18:29,233 INFO    MainThread:8628 [wandb_init.py:init():555] run started, returning control to user process
+2021-08-07 16:18:29,518 INFO    MainThread:8628 [wandb_init.py:_pause_backend():251] pausing backend
+2021-08-07 16:18:29,518 INFO    MainThread:8628 [jupyter.py:save_ipynb():284] not saving jupyter notebook
+2021-08-07 16:19:17,430 INFO    MainThread:8628 [wandb_init.py:_resume_backend():260] resuming backend
+2021-08-07 16:19:17,563 INFO    MainThread:8628 [wandb_init.py:_pause_backend():251] pausing backend
+2021-08-07 16:19:17,564 INFO    MainThread:8628 [jupyter.py:save_ipynb():284] not saving jupyter notebook
+2021-08-07 16:19:19,404 INFO    MainThread:8628 [wandb_init.py:_resume_backend():260] resuming backend
+2021-08-07 16:19:19,412 INFO    MainThread:8628 [wandb_init.py:_pause_backend():251] pausing backend
+2021-08-07 16:19:19,412 INFO    MainThread:8628 [jupyter.py:save_ipynb():284] not saving jupyter notebook
+2021-08-07 16:19:38,729 INFO    MainThread:8628 [wandb_init.py:_resume_backend():260] resuming backend
+2021-08-07 16:19:38,733 INFO    MainThread:8628 [wandb_init.py:_pause_backend():251] pausing backend
+2021-08-07 16:19:38,733 INFO    MainThread:8628 [jupyter.py:save_ipynb():284] not saving jupyter notebook
+2021-08-07 16:19:40,606 INFO    MainThread:8628 [wandb_init.py:_resume_backend():260] resuming backend
+2021-08-07 16:19:40,609 INFO    MainThread:8628 [wandb_init.py:_pause_backend():251] pausing backend
+2021-08-07 16:19:40,609 INFO    MainThread:8628 [jupyter.py:save_ipynb():284] not saving jupyter notebook
+2021-08-07 16:20:17,761 INFO    MainThread:8628 [wandb_init.py:_resume_backend():260] resuming backend
+2021-08-07 16:20:18,436 INFO    MainThread:8628 [wandb_init.py:_pause_backend():251] pausing backend
+2021-08-07 16:20:18,437 INFO    MainThread:8628 [jupyter.py:save_ipynb():284] not saving jupyter notebook
+2021-08-07 16:24:28,197 INFO    MainThread:8628 [wandb_init.py:_resume_backend():260] resuming backend
+2021-08-07 16:24:28,231 INFO    MainThread:8628 [pyagent.py:run():319] Starting sweep agent: entity=None, project=None, count=5
+2021-08-07 16:24:29,173 INFO    Thread-21 :8628 [wandb_setup.py:_flush():69] setting env: {'project': 'medici wandb test', 'entity': 'unchae', 'root_dir': 'C:\\Users\\medici\\파이썬베이스\\7-8월 데이콘', 'sweep_id': 'p0hwfbf7', 'run_id': 'hneiuwbl', 'sweep_param_path': 'C:\\Users\\medici\\파이썬베이스\\7-8월 데이콘\\wandb\\sweep-p0hwfbf7\\config-hneiuwbl.yaml'}
+2021-08-07 16:24:29,174 INFO    Thread-21 :8628 [wandb_init.py:_log_setup():338] Logging user logs to C:\Users\medici\파이썬베이스\7-8월 데이콘\wandb\run-20210807_162429-hneiuwbl\logs\debug.log
+2021-08-07 16:24:29,174 INFO    Thread-21 :8628 [wandb_init.py:_log_setup():339] Logging internal logs to C:\Users\medici\파이썬베이스\7-8월 데이콘\wandb\run-20210807_162429-hneiuwbl\logs\debug-internal.log
+2021-08-07 16:24:29,175 INFO    Thread-21 :8628 [wandb_init.py:init():371] calling init triggers
+2021-08-07 16:24:29,176 INFO    Thread-21 :8628 [wandb_init.py:init():376] wandb.init called with sweep_config: {'colsample_bytree': 0.6536476992793909, 'max_depth': 2, 'subsample': 0.764610425178516}
+config: {}
+2021-08-07 16:24:29,176 INFO    Thread-21 :8628 [wandb_init.py:init():420] starting backend
+2021-08-07 16:24:29,176 INFO    Thread-21 :8628 [backend.py:_multiprocessing_setup():70] multiprocessing start_methods=spawn, using: spawn
+2021-08-07 16:24:29,180 INFO    Thread-21 :8628 [backend.py:ensure_launched():135] starting backend process...
+2021-08-07 16:24:29,281 INFO    Thread-21 :8628 [backend.py:ensure_launched():139] started backend process with pid: 3448
+2021-08-07 16:24:29,281 INFO    Thread-21 :8628 [wandb_init.py:init():425] backend started and connected
+2021-08-07 16:24:29,292 INFO    Thread-21 :8628 [wandb_run.py:_config_callback():874] config_cb None None {'colsample_bytree': 0.6536476992793909, 'max_depth': 2, 'subsample': 0.764610425178516}
+2021-08-07 16:24:29,293 INFO    Thread-21 :8628 [wandb_run.py:_label_probe_notebook():846] probe notebook
+2021-08-07 16:24:29,293 INFO    Thread-21 :8628 [wandb_run.py:_label_probe_notebook():853] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2021-08-07 16:24:29,294 INFO    Thread-21 :8628 [wandb_init.py:init():473] updated telemetry
+2021-08-07 16:24:29,295 INFO    Thread-21 :8628 [wandb_init.py:init():492] communicating current version
+2021-08-07 16:24:31,456 INFO    Thread-21 :8628 [wandb_init.py:init():497] got version response 
+2021-08-07 16:24:31,457 INFO    Thread-21 :8628 [wandb_init.py:init():505] communicating run to backend with 30 second timeout
+2021-08-07 16:24:31,879 INFO    Thread-21 :8628 [wandb_init.py:init():530] starting run threads in backend
+2021-08-07 16:24:36,894 INFO    Thread-21 :8628 [wandb_run.py:_console_start():1625] atexit reg
+2021-08-07 16:24:36,894 INFO    Thread-21 :8628 [wandb_run.py:_redirect():1499] redirect: SettingsConsole.WRAP
+2021-08-07 16:24:36,894 INFO    Thread-21 :8628 [wandb_run.py:_redirect():1536] Wrapping output streams.
+2021-08-07 16:24:37,888 INFO    Thread-21 :8628 [wandb_run.py:_redirect():1560] Redirects installed.
+2021-08-07 16:24:37,888 INFO    Thread-21 :8628 [wandb_init.py:init():555] run started, returning control to user process
+2021-08-07 16:26:21,978 INFO    Thread-21 :8628 [wandb_run.py:finish():1295] finishing run unchae/medici wandb test/hneiuwbl
+2021-08-07 16:26:21,979 INFO    Thread-21 :8628 [wandb_run.py:_atexit_cleanup():1595] got exitcode: 0
+2021-08-07 16:26:21,980 INFO    Thread-21 :8628 [wandb_run.py:_restore():1567] restore
+2021-08-07 16:26:22,791 INFO    Thread-21 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 985
+}
+
+2021-08-07 16:26:23,184 INFO    Thread-21 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 985
+}
+
+2021-08-07 16:26:24,044 INFO    Thread-21 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 27791
+}
+
+2021-08-07 16:26:24,158 INFO    Thread-21 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 27877
+}
+
+2021-08-07 16:26:24,282 INFO    Thread-21 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 27877
+}
+
+2021-08-07 16:26:24,387 INFO    Thread-21 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 27877
+}
+
+2021-08-07 16:26:24,495 INFO    Thread-21 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 27877
+  total_bytes: 27877
+}
+
+2021-08-07 16:26:24,617 INFO    Thread-21 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 27877
+  total_bytes: 27877
+}
+
+2021-08-07 16:26:24,728 INFO    Thread-21 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 27877
+  total_bytes: 27877
+}
+
+2021-08-07 16:26:24,834 INFO    Thread-21 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 27877
+  total_bytes: 27877
+}
+
+2021-08-07 16:26:24,945 INFO    Thread-21 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 27877
+  total_bytes: 27877
+}
+
+2021-08-07 16:26:25,377 INFO    Thread-21 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 27877
+  total_bytes: 27877
+}
+
+2021-08-07 16:26:25,483 INFO    Thread-21 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 27877
+  total_bytes: 27877
+}
+
+2021-08-07 16:26:26,948 INFO    Thread-21 :8628 [wandb_run.py:_show_summary():1872] rendering summary
+2021-08-07 16:26:26,950 INFO    Thread-21 :8628 [wandb_run.py:_show_history():1910] rendering history
+2021-08-07 16:26:26,951 INFO    Thread-21 :8628 [wandb_run.py:_show_files():1939] logging synced files
+2021-08-07 16:26:27,754 INFO    Thread-30 :8628 [wandb_setup.py:_flush():69] setting env: {'project': 'medici wandb test', 'entity': 'unchae', 'root_dir': 'C:\\Users\\medici\\파이썬베이스\\7-8월 데이콘', 'run_id': 'cumdezwd', 'sweep_param_path': 'C:\\Users\\medici\\파이썬베이스\\7-8월 데이콘\\wandb\\sweep-p0hwfbf7\\config-cumdezwd.yaml', 'sweep_id': 'p0hwfbf7'}
+2021-08-07 16:26:27,756 INFO    Thread-30 :8628 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-08-07 16:26:27,757 INFO    Thread-30 :8628 [wandb_init.py:_log_setup():338] Logging user logs to C:\Users\medici\파이썬베이스\7-8월 데이콘\wandb\run-20210807_162627-cumdezwd\logs\debug.log
+2021-08-07 16:26:27,758 INFO    Thread-30 :8628 [wandb_init.py:_log_setup():339] Logging internal logs to C:\Users\medici\파이썬베이스\7-8월 데이콘\wandb\run-20210807_162627-cumdezwd\logs\debug-internal.log
+2021-08-07 16:26:27,761 INFO    Thread-30 :8628 [wandb_init.py:init():371] calling init triggers
+2021-08-07 16:26:27,761 INFO    Thread-30 :8628 [wandb_init.py:init():376] wandb.init called with sweep_config: {'colsample_bytree': 0.618215640969904, 'max_depth': 10, 'subsample': 0.8685038105121736}
+config: {}
+2021-08-07 16:26:27,761 INFO    Thread-30 :8628 [wandb_init.py:init():420] starting backend
+2021-08-07 16:26:27,761 INFO    Thread-30 :8628 [backend.py:_multiprocessing_setup():70] multiprocessing start_methods=spawn, using: spawn
+2021-08-07 16:26:27,769 INFO    Thread-30 :8628 [backend.py:ensure_launched():135] starting backend process...
+2021-08-07 16:26:27,875 INFO    Thread-30 :8628 [backend.py:ensure_launched():139] started backend process with pid: 12660
+2021-08-07 16:26:27,875 INFO    Thread-30 :8628 [wandb_init.py:init():425] backend started and connected
+2021-08-07 16:26:27,889 INFO    Thread-30 :8628 [wandb_run.py:_config_callback():874] config_cb None None {'colsample_bytree': 0.618215640969904, 'max_depth': 10, 'subsample': 0.8685038105121736}
+2021-08-07 16:26:27,889 INFO    Thread-30 :8628 [wandb_run.py:_label_probe_notebook():846] probe notebook
+2021-08-07 16:26:27,889 INFO    Thread-30 :8628 [wandb_run.py:_label_probe_notebook():853] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2021-08-07 16:26:27,890 INFO    Thread-30 :8628 [wandb_init.py:init():473] updated telemetry
+2021-08-07 16:26:27,891 INFO    Thread-30 :8628 [wandb_init.py:init():492] communicating current version
+2021-08-07 16:26:29,925 INFO    Thread-30 :8628 [wandb_init.py:init():497] got version response 
+2021-08-07 16:26:29,925 INFO    Thread-30 :8628 [wandb_init.py:init():505] communicating run to backend with 30 second timeout
+2021-08-07 16:26:30,269 INFO    Thread-30 :8628 [wandb_init.py:init():530] starting run threads in backend
+2021-08-07 16:26:35,281 INFO    Thread-30 :8628 [wandb_run.py:_console_start():1625] atexit reg
+2021-08-07 16:26:35,282 INFO    Thread-30 :8628 [wandb_run.py:_redirect():1499] redirect: SettingsConsole.WRAP
+2021-08-07 16:26:35,282 INFO    Thread-30 :8628 [wandb_run.py:_redirect():1536] Wrapping output streams.
+2021-08-07 16:26:35,284 INFO    Thread-30 :8628 [wandb_run.py:_redirect():1560] Redirects installed.
+2021-08-07 16:26:35,284 INFO    Thread-30 :8628 [wandb_init.py:init():555] run started, returning control to user process
+2021-08-07 16:27:33,248 INFO    Thread-30 :8628 [wandb_run.py:finish():1295] finishing run unchae/medici wandb test/cumdezwd
+2021-08-07 16:27:33,249 INFO    Thread-30 :8628 [wandb_run.py:_atexit_cleanup():1595] got exitcode: 0
+2021-08-07 16:27:33,250 INFO    Thread-30 :8628 [wandb_run.py:_restore():1567] restore
+2021-08-07 16:27:34,175 INFO    Thread-30 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 985
+}
+
+2021-08-07 16:27:34,394 INFO    Thread-30 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 985
+}
+
+2021-08-07 16:27:34,707 INFO    Thread-30 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 985
+}
+
+2021-08-07 16:27:34,890 INFO    Thread-30 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 25237
+}
+
+2021-08-07 16:27:35,005 INFO    Thread-30 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 25237
+}
+
+2021-08-07 16:27:35,119 INFO    Thread-30 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 25237
+}
+
+2021-08-07 16:27:35,240 INFO    Thread-30 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 17690
+  total_bytes: 25237
+}
+
+2021-08-07 16:27:35,369 INFO    Thread-30 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25237
+  total_bytes: 25237
+}
+
+2021-08-07 16:27:35,485 INFO    Thread-30 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25237
+  total_bytes: 25237
+}
+
+2021-08-07 16:27:35,595 INFO    Thread-30 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25237
+  total_bytes: 25237
+}
+
+2021-08-07 16:27:35,700 INFO    Thread-30 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25237
+  total_bytes: 25237
+}
+
+2021-08-07 16:27:36,133 INFO    Thread-30 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25237
+  total_bytes: 25237
+}
+
+2021-08-07 16:27:36,244 INFO    Thread-30 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25237
+  total_bytes: 25237
+}
+
+2021-08-07 16:27:37,774 INFO    Thread-30 :8628 [wandb_run.py:_show_summary():1872] rendering summary
+2021-08-07 16:27:37,775 INFO    Thread-30 :8628 [wandb_run.py:_show_history():1910] rendering history
+2021-08-07 16:27:37,776 INFO    Thread-30 :8628 [wandb_run.py:_show_files():1939] logging synced files
+2021-08-07 16:27:38,587 INFO    Thread-39 :8628 [wandb_setup.py:_flush():69] setting env: {'project': 'medici wandb test', 'entity': 'unchae', 'root_dir': 'C:\\Users\\medici\\파이썬베이스\\7-8월 데이콘', 'run_id': 'y2sv88gk', 'sweep_param_path': 'C:\\Users\\medici\\파이썬베이스\\7-8월 데이콘\\wandb\\sweep-p0hwfbf7\\config-y2sv88gk.yaml', 'sweep_id': 'p0hwfbf7'}
+2021-08-07 16:27:38,587 INFO    Thread-39 :8628 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-08-07 16:27:38,588 INFO    Thread-39 :8628 [wandb_init.py:_log_setup():338] Logging user logs to C:\Users\medici\파이썬베이스\7-8월 데이콘\wandb\run-20210807_162738-y2sv88gk\logs\debug.log
+2021-08-07 16:27:38,588 INFO    Thread-39 :8628 [wandb_init.py:_log_setup():339] Logging internal logs to C:\Users\medici\파이썬베이스\7-8월 데이콘\wandb\run-20210807_162738-y2sv88gk\logs\debug-internal.log
+2021-08-07 16:27:38,590 INFO    Thread-39 :8628 [wandb_init.py:init():371] calling init triggers
+2021-08-07 16:27:38,590 INFO    Thread-39 :8628 [wandb_init.py:init():376] wandb.init called with sweep_config: {'colsample_bytree': 0.5873256557413251, 'max_depth': 10, 'subsample': 0.8824291941737747}
+config: {}
+2021-08-07 16:27:38,590 INFO    Thread-39 :8628 [wandb_init.py:init():420] starting backend
+2021-08-07 16:27:38,591 INFO    Thread-39 :8628 [backend.py:_multiprocessing_setup():70] multiprocessing start_methods=spawn, using: spawn
+2021-08-07 16:27:38,594 INFO    Thread-39 :8628 [backend.py:ensure_launched():135] starting backend process...
+2021-08-07 16:27:38,802 INFO    Thread-39 :8628 [backend.py:ensure_launched():139] started backend process with pid: 19960
+2021-08-07 16:27:38,803 INFO    Thread-39 :8628 [wandb_init.py:init():425] backend started and connected
+2021-08-07 16:27:38,817 INFO    Thread-39 :8628 [wandb_run.py:_config_callback():874] config_cb None None {'colsample_bytree': 0.5873256557413251, 'max_depth': 10, 'subsample': 0.8824291941737747}
+2021-08-07 16:27:38,817 INFO    Thread-39 :8628 [wandb_run.py:_label_probe_notebook():846] probe notebook
+2021-08-07 16:27:38,818 INFO    Thread-39 :8628 [wandb_run.py:_label_probe_notebook():853] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2021-08-07 16:27:38,818 INFO    Thread-39 :8628 [wandb_init.py:init():473] updated telemetry
+2021-08-07 16:27:38,818 INFO    Thread-39 :8628 [wandb_init.py:init():492] communicating current version
+2021-08-07 16:27:40,831 INFO    Thread-39 :8628 [wandb_init.py:init():497] got version response 
+2021-08-07 16:27:40,831 INFO    Thread-39 :8628 [wandb_init.py:init():505] communicating run to backend with 30 second timeout
+2021-08-07 16:27:41,227 INFO    Thread-39 :8628 [wandb_init.py:init():530] starting run threads in backend
+2021-08-07 16:27:46,242 INFO    Thread-39 :8628 [wandb_run.py:_console_start():1625] atexit reg
+2021-08-07 16:27:46,242 INFO    Thread-39 :8628 [wandb_run.py:_redirect():1499] redirect: SettingsConsole.WRAP
+2021-08-07 16:27:46,243 INFO    Thread-39 :8628 [wandb_run.py:_redirect():1536] Wrapping output streams.
+2021-08-07 16:27:46,245 INFO    Thread-39 :8628 [wandb_run.py:_redirect():1560] Redirects installed.
+2021-08-07 16:27:46,245 INFO    Thread-39 :8628 [wandb_init.py:init():555] run started, returning control to user process
+2021-08-07 16:28:38,556 INFO    Thread-39 :8628 [wandb_run.py:finish():1295] finishing run unchae/medici wandb test/y2sv88gk
+2021-08-07 16:28:38,556 INFO    Thread-39 :8628 [wandb_run.py:_atexit_cleanup():1595] got exitcode: 0
+2021-08-07 16:28:38,557 INFO    Thread-39 :8628 [wandb_run.py:_restore():1567] restore
+2021-08-07 16:28:39,223 INFO    Thread-39 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 985
+}
+
+2021-08-07 16:28:39,364 INFO    Thread-39 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 985
+}
+
+2021-08-07 16:28:39,672 INFO    Thread-39 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 985
+}
+
+2021-08-07 16:28:39,869 INFO    Thread-39 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 25238
+}
+
+2021-08-07 16:28:39,987 INFO    Thread-39 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 25238
+}
+
+2021-08-07 16:28:40,098 INFO    Thread-39 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 25238
+}
+
+2021-08-07 16:28:40,202 INFO    Thread-39 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 25238
+}
+
+2021-08-07 16:28:40,312 INFO    Thread-39 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25238
+  total_bytes: 25238
+}
+
+2021-08-07 16:28:40,421 INFO    Thread-39 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25238
+  total_bytes: 25238
+}
+
+2021-08-07 16:28:40,532 INFO    Thread-39 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25238
+  total_bytes: 25238
+}
+
+2021-08-07 16:28:40,638 INFO    Thread-39 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25238
+  total_bytes: 25238
+}
+
+2021-08-07 16:28:40,746 INFO    Thread-39 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25238
+  total_bytes: 25238
+}
+
+2021-08-07 16:28:41,184 INFO    Thread-39 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25238
+  total_bytes: 25238
+}
+
+2021-08-07 16:28:41,291 INFO    Thread-39 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25238
+  total_bytes: 25238
+}
+
+2021-08-07 16:28:42,760 INFO    Thread-39 :8628 [wandb_run.py:_show_summary():1872] rendering summary
+2021-08-07 16:28:42,761 INFO    Thread-39 :8628 [wandb_run.py:_show_history():1910] rendering history
+2021-08-07 16:28:42,762 INFO    Thread-39 :8628 [wandb_run.py:_show_files():1939] logging synced files
+2021-08-07 16:28:43,540 INFO    Thread-48 :8628 [wandb_setup.py:_flush():69] setting env: {'project': 'medici wandb test', 'entity': 'unchae', 'root_dir': 'C:\\Users\\medici\\파이썬베이스\\7-8월 데이콘', 'run_id': 'kyde14uv', 'sweep_param_path': 'C:\\Users\\medici\\파이썬베이스\\7-8월 데이콘\\wandb\\sweep-p0hwfbf7\\config-kyde14uv.yaml', 'sweep_id': 'p0hwfbf7'}
+2021-08-07 16:28:43,540 INFO    Thread-48 :8628 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-08-07 16:28:43,541 INFO    Thread-48 :8628 [wandb_init.py:_log_setup():338] Logging user logs to C:\Users\medici\파이썬베이스\7-8월 데이콘\wandb\run-20210807_162843-kyde14uv\logs\debug.log
+2021-08-07 16:28:43,541 INFO    Thread-48 :8628 [wandb_init.py:_log_setup():339] Logging internal logs to C:\Users\medici\파이썬베이스\7-8월 데이콘\wandb\run-20210807_162843-kyde14uv\logs\debug-internal.log
+2021-08-07 16:28:43,543 INFO    Thread-48 :8628 [wandb_init.py:init():371] calling init triggers
+2021-08-07 16:28:43,543 INFO    Thread-48 :8628 [wandb_init.py:init():376] wandb.init called with sweep_config: {'colsample_bytree': 0.5295640688492664, 'max_depth': 14, 'subsample': 0.921362133573915}
+config: {}
+2021-08-07 16:28:43,544 INFO    Thread-48 :8628 [wandb_init.py:init():420] starting backend
+2021-08-07 16:28:43,544 INFO    Thread-48 :8628 [backend.py:_multiprocessing_setup():70] multiprocessing start_methods=spawn, using: spawn
+2021-08-07 16:28:43,551 INFO    Thread-48 :8628 [backend.py:ensure_launched():135] starting backend process...
+2021-08-07 16:28:43,657 INFO    Thread-48 :8628 [backend.py:ensure_launched():139] started backend process with pid: 15940
+2021-08-07 16:28:43,658 INFO    Thread-48 :8628 [wandb_init.py:init():425] backend started and connected
+2021-08-07 16:28:43,671 INFO    Thread-48 :8628 [wandb_run.py:_config_callback():874] config_cb None None {'colsample_bytree': 0.5295640688492664, 'max_depth': 14, 'subsample': 0.921362133573915}
+2021-08-07 16:28:43,671 INFO    Thread-48 :8628 [wandb_run.py:_label_probe_notebook():846] probe notebook
+2021-08-07 16:28:43,671 INFO    Thread-48 :8628 [wandb_run.py:_label_probe_notebook():853] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2021-08-07 16:28:43,672 INFO    Thread-48 :8628 [wandb_init.py:init():473] updated telemetry
+2021-08-07 16:28:43,672 INFO    Thread-48 :8628 [wandb_init.py:init():492] communicating current version
+2021-08-07 16:28:45,713 INFO    Thread-48 :8628 [wandb_init.py:init():497] got version response 
+2021-08-07 16:28:45,714 INFO    Thread-48 :8628 [wandb_init.py:init():505] communicating run to backend with 30 second timeout
+2021-08-07 16:28:46,166 INFO    Thread-48 :8628 [wandb_init.py:init():530] starting run threads in backend
+2021-08-07 16:28:51,187 INFO    Thread-48 :8628 [wandb_run.py:_console_start():1625] atexit reg
+2021-08-07 16:28:51,187 INFO    Thread-48 :8628 [wandb_run.py:_redirect():1499] redirect: SettingsConsole.WRAP
+2021-08-07 16:28:51,188 INFO    Thread-48 :8628 [wandb_run.py:_redirect():1536] Wrapping output streams.
+2021-08-07 16:28:51,190 INFO    Thread-48 :8628 [wandb_run.py:_redirect():1560] Redirects installed.
+2021-08-07 16:28:51,190 INFO    Thread-48 :8628 [wandb_init.py:init():555] run started, returning control to user process
+2021-08-07 16:29:53,444 INFO    Thread-48 :8628 [wandb_run.py:finish():1295] finishing run unchae/medici wandb test/kyde14uv
+2021-08-07 16:29:53,446 INFO    Thread-48 :8628 [wandb_run.py:_atexit_cleanup():1595] got exitcode: 0
+2021-08-07 16:29:53,446 INFO    Thread-48 :8628 [wandb_run.py:_restore():1567] restore
+2021-08-07 16:29:53,691 INFO    Thread-48 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 985
+}
+
+2021-08-07 16:29:53,831 INFO    Thread-48 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 985
+}
+
+2021-08-07 16:29:54,096 INFO    Thread-48 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 985
+}
+
+2021-08-07 16:29:54,773 INFO    Thread-48 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 25152
+}
+
+2021-08-07 16:29:54,878 INFO    Thread-48 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 25237
+}
+
+2021-08-07 16:29:54,998 INFO    Thread-48 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 25237
+}
+
+2021-08-07 16:29:55,106 INFO    Thread-48 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 2778
+  total_bytes: 25237
+}
+
+2021-08-07 16:29:55,217 INFO    Thread-48 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25237
+  total_bytes: 25237
+}
+
+2021-08-07 16:29:55,324 INFO    Thread-48 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25237
+  total_bytes: 25237
+}
+
+2021-08-07 16:29:55,432 INFO    Thread-48 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25237
+  total_bytes: 25237
+}
+
+2021-08-07 16:29:55,542 INFO    Thread-48 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25237
+  total_bytes: 25237
+}
+
+2021-08-07 16:29:55,653 INFO    Thread-48 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25237
+  total_bytes: 25237
+}
+
+2021-08-07 16:29:56,075 INFO    Thread-48 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25237
+  total_bytes: 25237
+}
+
+2021-08-07 16:29:56,191 INFO    Thread-48 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25237
+  total_bytes: 25237
+}
+
+2021-08-07 16:29:57,665 INFO    Thread-48 :8628 [wandb_run.py:_show_summary():1872] rendering summary
+2021-08-07 16:29:57,667 INFO    Thread-48 :8628 [wandb_run.py:_show_history():1910] rendering history
+2021-08-07 16:29:57,668 INFO    Thread-48 :8628 [wandb_run.py:_show_files():1939] logging synced files
+2021-08-07 16:29:58,483 INFO    Thread-57 :8628 [wandb_setup.py:_flush():69] setting env: {'project': 'medici wandb test', 'entity': 'unchae', 'root_dir': 'C:\\Users\\medici\\파이썬베이스\\7-8월 데이콘', 'run_id': '3z2xkkas', 'sweep_param_path': 'C:\\Users\\medici\\파이썬베이스\\7-8월 데이콘\\wandb\\sweep-p0hwfbf7\\config-3z2xkkas.yaml', 'sweep_id': 'p0hwfbf7'}
+2021-08-07 16:29:58,484 INFO    Thread-57 :8628 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-08-07 16:29:58,484 INFO    Thread-57 :8628 [wandb_init.py:_log_setup():338] Logging user logs to C:\Users\medici\파이썬베이스\7-8월 데이콘\wandb\run-20210807_162958-3z2xkkas\logs\debug.log
+2021-08-07 16:29:58,485 INFO    Thread-57 :8628 [wandb_init.py:_log_setup():339] Logging internal logs to C:\Users\medici\파이썬베이스\7-8월 데이콘\wandb\run-20210807_162958-3z2xkkas\logs\debug-internal.log
+2021-08-07 16:29:58,487 INFO    Thread-57 :8628 [wandb_init.py:init():371] calling init triggers
+2021-08-07 16:29:58,488 INFO    Thread-57 :8628 [wandb_init.py:init():376] wandb.init called with sweep_config: {'colsample_bytree': 0.7292639877332963, 'max_depth': 15, 'subsample': 0.9889245231389854}
+config: {}
+2021-08-07 16:29:58,489 INFO    Thread-57 :8628 [wandb_init.py:init():420] starting backend
+2021-08-07 16:29:58,489 INFO    Thread-57 :8628 [backend.py:_multiprocessing_setup():70] multiprocessing start_methods=spawn, using: spawn
+2021-08-07 16:29:58,498 INFO    Thread-57 :8628 [backend.py:ensure_launched():135] starting backend process...
+2021-08-07 16:29:58,621 INFO    Thread-57 :8628 [backend.py:ensure_launched():139] started backend process with pid: 10852
+2021-08-07 16:29:58,621 INFO    Thread-57 :8628 [wandb_init.py:init():425] backend started and connected
+2021-08-07 16:29:58,632 INFO    Thread-57 :8628 [wandb_run.py:_config_callback():874] config_cb None None {'colsample_bytree': 0.7292639877332963, 'max_depth': 15, 'subsample': 0.9889245231389854}
+2021-08-07 16:29:58,633 INFO    Thread-57 :8628 [wandb_run.py:_label_probe_notebook():846] probe notebook
+2021-08-07 16:29:58,633 INFO    Thread-57 :8628 [wandb_run.py:_label_probe_notebook():853] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2021-08-07 16:29:58,633 INFO    Thread-57 :8628 [wandb_init.py:init():473] updated telemetry
+2021-08-07 16:29:58,634 INFO    Thread-57 :8628 [wandb_init.py:init():492] communicating current version
+2021-08-07 16:30:00,573 INFO    Thread-57 :8628 [wandb_init.py:init():497] got version response 
+2021-08-07 16:30:00,574 INFO    Thread-57 :8628 [wandb_init.py:init():505] communicating run to backend with 30 second timeout
+2021-08-07 16:30:01,013 INFO    Thread-57 :8628 [wandb_init.py:init():530] starting run threads in backend
+2021-08-07 16:30:06,026 INFO    Thread-57 :8628 [wandb_run.py:_console_start():1625] atexit reg
+2021-08-07 16:30:06,028 INFO    Thread-57 :8628 [wandb_run.py:_redirect():1499] redirect: SettingsConsole.WRAP
+2021-08-07 16:30:06,029 INFO    Thread-57 :8628 [wandb_run.py:_redirect():1536] Wrapping output streams.
+2021-08-07 16:30:06,031 INFO    Thread-57 :8628 [wandb_run.py:_redirect():1560] Redirects installed.
+2021-08-07 16:30:06,032 INFO    Thread-57 :8628 [wandb_init.py:init():555] run started, returning control to user process
+2021-08-07 16:31:12,456 INFO    Thread-57 :8628 [wandb_run.py:finish():1295] finishing run unchae/medici wandb test/3z2xkkas
+2021-08-07 16:31:12,457 INFO    Thread-57 :8628 [wandb_run.py:_atexit_cleanup():1595] got exitcode: 0
+2021-08-07 16:31:12,458 INFO    Thread-57 :8628 [wandb_run.py:_restore():1567] restore
+2021-08-07 16:31:13,086 INFO    Thread-57 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 985
+}
+
+2021-08-07 16:31:13,418 INFO    Thread-57 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 985
+}
+
+2021-08-07 16:31:13,761 INFO    Thread-57 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 25238
+}
+
+2021-08-07 16:31:13,879 INFO    Thread-57 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 25238
+}
+
+2021-08-07 16:31:13,992 INFO    Thread-57 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 985
+  total_bytes: 25238
+}
+
+2021-08-07 16:31:14,111 INFO    Thread-57 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25238
+  total_bytes: 25238
+}
+
+2021-08-07 16:31:14,219 INFO    Thread-57 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25238
+  total_bytes: 25238
+}
+
+2021-08-07 16:31:14,330 INFO    Thread-57 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25238
+  total_bytes: 25238
+}
+
+2021-08-07 16:31:14,437 INFO    Thread-57 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25238
+  total_bytes: 25238
+}
+
+2021-08-07 16:31:14,545 INFO    Thread-57 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25238
+  total_bytes: 25238
+}
+
+2021-08-07 16:31:14,655 INFO    Thread-57 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25238
+  total_bytes: 25238
+}
+
+2021-08-07 16:31:15,029 INFO    Thread-57 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25238
+  total_bytes: 25238
+}
+
+2021-08-07 16:31:15,149 INFO    Thread-57 :8628 [wandb_run.py:_wait_for_finish():1717] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 25238
+  total_bytes: 25238
+}
+
+2021-08-07 16:31:16,639 INFO    Thread-57 :8628 [wandb_run.py:_show_summary():1872] rendering summary
+2021-08-07 16:31:16,640 INFO    Thread-57 :8628 [wandb_run.py:_show_history():1910] rendering history
+2021-08-07 16:31:16,641 INFO    Thread-57 :8628 [wandb_run.py:_show_files():1939] logging synced files
+2021-08-07 16:31:16,653 INFO    MainThread:8628 [wandb_init.py:_pause_backend():251] pausing backend
+2021-08-07 16:31:16,653 INFO    MainThread:8628 [jupyter.py:save_ipynb():284] not saving jupyter notebook

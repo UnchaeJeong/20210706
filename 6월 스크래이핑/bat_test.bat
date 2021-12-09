@@ -1,0 +1,2 @@
+python ll.py
+cd\

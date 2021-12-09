@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.8",
+    "heartbeatAt": "2021-08-07T07:24:34.313931",
+    "startedAt": "2021-08-07T07:24:29.163406",
+    "docker": null,
+    "gpu": "GeForce RTX 2070",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\medici\\AppData\\Roaming\\jupyter\\runtime\\kernel-dc85b45c-9c65-4a4a-9d8c-bcc4ac7db64a.json"
+    ],
+    "state": "running",
+    "program": "\ud30c\uc774\uc36c\ubca0\uc774\uc2a4/7-8\uc6d4 \ub370\uc774\ucf58/04. Model_Tuning_WanDB.ipynb",
+    "root": "C:/Users/medici/\ud30c\uc774\uc36c\ubca0\uc774\uc2a4",
+    "git": {
+        "remote": "https://github.com/UnchaeJeong/python_projects.git",
+        "commit": "2b1d60dc67c7eddda0690ce7418c524183c6cef4"
+    },
+    "email": "76664501+UnchaeJeong@users.noreply.github.com",
+    "host": "DESKTOP-O3VBIUD",
+    "username": "medici",
+    "executable": "C:\\Users\\medici\\anaconda3\\python.exe"
+}

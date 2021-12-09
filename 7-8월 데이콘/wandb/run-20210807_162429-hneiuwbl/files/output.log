@@ -1,0 +1,61 @@
+
+[0]	validation_0-mlogloss:0.97922	validation_1-mlogloss:0.97823
+[100]	validation_0-mlogloss:0.77413	validation_1-mlogloss:0.79073
+[200]	validation_0-mlogloss:0.75155	validation_1-mlogloss:0.78436
+[300]	validation_0-mlogloss:0.73410	validation_1-mlogloss:0.77968
+[400]	validation_0-mlogloss:0.71929	validation_1-mlogloss:0.77480
+[500]	validation_0-mlogloss:0.70508	validation_1-mlogloss:0.77010
+[600]	validation_0-mlogloss:0.69292	validation_1-mlogloss:0.76812
+[700]	validation_0-mlogloss:0.68257	validation_1-mlogloss:0.76491
+[800]	validation_0-mlogloss:0.67192	validation_1-mlogloss:0.76237
+[900]	validation_0-mlogloss:0.66222	validation_1-mlogloss:0.75899
+[999]	validation_0-mlogloss:0.65442	validation_1-mlogloss:0.75662
+0 Fold, train logloss : 0.65444, validation logloss : 0.7566
+[0]	validation_0-mlogloss:0.97865	validation_1-mlogloss:0.98062
+[100]	validation_0-mlogloss:0.77073	validation_1-mlogloss:0.80187
+[200]	validation_0-mlogloss:0.74855	validation_1-mlogloss:0.79533
+[300]	validation_0-mlogloss:0.73026	validation_1-mlogloss:0.79242
+[400]	validation_0-mlogloss:0.71550	validation_1-mlogloss:0.78742
+[500]	validation_0-mlogloss:0.70070	validation_1-mlogloss:0.78334
+[600]	validation_0-mlogloss:0.68880	validation_1-mlogloss:0.78087
+[700]	validation_0-mlogloss:0.67804	validation_1-mlogloss:0.77853
+[800]	validation_0-mlogloss:0.66809	validation_1-mlogloss:0.77480
+[900]	validation_0-mlogloss:0.65913	validation_1-mlogloss:0.77395
+[999]	validation_0-mlogloss:0.65085	validation_1-mlogloss:0.77243
+1 Fold, train logloss : 0.65154, validation logloss : 0.7723
+[0]	validation_0-mlogloss:1.00848	validation_1-mlogloss:1.00895
+[100]	validation_0-mlogloss:0.77513	validation_1-mlogloss:0.79584
+[200]	validation_0-mlogloss:0.75223	validation_1-mlogloss:0.78793
+[300]	validation_0-mlogloss:0.73420	validation_1-mlogloss:0.78203
+[400]	validation_0-mlogloss:0.71835	validation_1-mlogloss:0.77792
+[500]	validation_0-mlogloss:0.70536	validation_1-mlogloss:0.77529
+[600]	validation_0-mlogloss:0.69307	validation_1-mlogloss:0.77233
+[700]	validation_0-mlogloss:0.68145	validation_1-mlogloss:0.77035
+[800]	validation_0-mlogloss:0.67168	validation_1-mlogloss:0.76933
+[900]	validation_0-mlogloss:0.66195	validation_1-mlogloss:0.76804
+[999]	validation_0-mlogloss:0.65328	validation_1-mlogloss:0.76538
+2 Fold, train logloss : 0.65334, validation logloss : 0.7654
+[0]	validation_0-mlogloss:1.00838	validation_1-mlogloss:1.00854
+[100]	validation_0-mlogloss:0.77393	validation_1-mlogloss:0.79542
+[200]	validation_0-mlogloss:0.75191	validation_1-mlogloss:0.78712
+[300]	validation_0-mlogloss:0.73312	validation_1-mlogloss:0.77973
+[400]	validation_0-mlogloss:0.71796	validation_1-mlogloss:0.77596
+[500]	validation_0-mlogloss:0.70355	validation_1-mlogloss:0.77119
+[600]	validation_0-mlogloss:0.69151	validation_1-mlogloss:0.76765
+[700]	validation_0-mlogloss:0.68045	validation_1-mlogloss:0.76466
+[800]	validation_0-mlogloss:0.67032	validation_1-mlogloss:0.76182
+[900]	validation_0-mlogloss:0.66125	validation_1-mlogloss:0.75941
+[999]	validation_0-mlogloss:0.65313	validation_1-mlogloss:0.75874
+3 Fold, train logloss : 0.65444, validation logloss : 0.7581
+[0]	validation_0-mlogloss:1.00850	validation_1-mlogloss:1.00899
+[100]	validation_0-mlogloss:0.77531	validation_1-mlogloss:0.79271
+[200]	validation_0-mlogloss:0.75221	validation_1-mlogloss:0.78582
+[300]	validation_0-mlogloss:0.73290	validation_1-mlogloss:0.77927
+[400]	validation_0-mlogloss:0.71662	validation_1-mlogloss:0.77417
+[500]	validation_0-mlogloss:0.70324	validation_1-mlogloss:0.77129
+[600]	validation_0-mlogloss:0.69114	validation_1-mlogloss:0.76834
+[700]	validation_0-mlogloss:0.67974	validation_1-mlogloss:0.76644
+[800]	validation_0-mlogloss:0.66974	validation_1-mlogloss:0.76427
+[900]	validation_0-mlogloss:0.65979	validation_1-mlogloss:0.76180
+[999]	validation_0-mlogloss:0.65158	validation_1-mlogloss:0.76068
+4 Fold, train logloss : 0.65224, validation logloss : 0.7605
