@@ -1,16 +1,569 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe7fbc5d-b6fd-458a-84f2-1f62e3040b6e" name="Default Changelist" comment="" />
+    <list default="true" id="857bfb76-889b-4386-8fc4-7874bac2fe37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/aaaa-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/asdfdsf-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10시간강의.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/.ipynb_checkpoints/Sel-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/6_24_1Crawling_naver_news_list0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/6_24_2Crawling_news_list1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/6_24_3Crawling_news_list2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/6_24_4Crawling_news_list3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/6_24_5Crawling_news_list4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/6_25_6Crawling_news_list5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/6_25_7Crawling_news_list6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/6_25_8Crawling_news_page1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/6_25_9Crawling_news_page2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/6_28_1Crawling_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/Outstanding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/Python_crawling 5..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/Python_crawling.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/Python_crawling4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/Python_crawling4.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/Python_crawling_day1_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/Sel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/TEST.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/Wifi_API.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/bat_test.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/dc_chanwoo_god.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/dcgal_crawl_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/dcgal_crawl_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/dcgal_main_hit_210628_145441.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/dcgallchanwoo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/dcgallery_crawling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/dcgalleryhit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/knowledge_people.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/nate_pann_210628_145346.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/natepan_list_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/natepan_page_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/naver list 6.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/naver list 6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/naver_crawling_output.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/naver_news_list5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/naver_openapi_image_crawl_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/naver_openapi_image_crawl_nahonja.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/python6.24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/python_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/python_crawling 1..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/region_code5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/scrawling_day1_3..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/sdfjlkdfj.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/강사님dcgal_comment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/강사님dcgal_crawl_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/강사님dcgal_crawl_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/강사님get_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/강사님naver_news_list_crawl06_selenium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/강사님pann_crawl_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/강사님pann_crawl_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/예제.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_24_스크래이핑/질문이요.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/.ipynb_checkpoints/문법TEST -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/.ipynb_checkpoints/시각화 파일 다운로더-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/01_사전학습/.ipynb_checkpoints/01_주피터 사용하기-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/01_사전학습/.ipynb_checkpoints/02_라이브러리 정리-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/01_사전학습/01_주피터 사용하기.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/01_사전학습/02_라이브러리 정리.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/01_사전학습/images/고양이.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/02_Numpy/.ipynb_checkpoints/01_파이썬 데이터 관리 요소-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/02_Numpy/.ipynb_checkpoints/02_Numpy 기본-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/02_Numpy/.ipynb_checkpoints/03 Numpy가 제공하는 함수들-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/02_Numpy/01_파이썬 데이터 관리 요소.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/02_Numpy/02_Numpy 기본.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/02_Numpy/03 Numpy가 제공하는 함수들.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/.ipynb_checkpoints/01_Series-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/.ipynb_checkpoints/02_DataFrame-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/.ipynb_checkpoints/03_데이터전처리-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/.ipynb_checkpoints/04_기술통계-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/.ipynb_checkpoints/05_데이터정제-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/.ipynb_checkpoints/06_그룹통계-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/01_Series.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/02_DataFrame.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/03_데이터전처리.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/04_기술통계.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/05_데이터정제.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/06_그룹통계.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/_7_1까지 정리.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/.ipynb_checkpoints/boston-checkpoint.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/boston.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/boston_new.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/breast_cancer.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/breast_cancer_new.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/city_people.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/dataset2017.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/grade.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/grade.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/grade10000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/iris.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/mpg.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/test_result.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/traffic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/data/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/03_Pandas/images/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/.ipynb_checkpoints/01_시각화 패키지 matplotlib 소개-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/.ipynb_checkpoints/02_다양한 플롯들-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/.ipynb_checkpoints/03_Pandas를 활용한 시각화-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/.ipynb_checkpoints/05_Seaborn-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/.ipynb_checkpoints/[Seaborn]01_라인플롯_이수안컴퓨터연구소-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/.ipynb_checkpoints/[Seaborn]02_범주형데이터_이수안컴퓨터연구소-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/01_시각화 패키지 matplotlib 소개.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/02_다양한 플롯들.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/03_Pandas를 활용한 시각화.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/05_Seaborn.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/Untitled1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/[Seaborn]01_라인플롯_이수안컴퓨터연구소.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/[Seaborn]02_범주형데이터_이수안컴퓨터연구소.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/.ipynb_checkpoints/boston-checkpoint.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/boston.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/boston_new.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/breast_cancer.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/breast_cancer_new.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/city_people.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/dataset2017.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/grade.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/grade.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/grade10000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/iris.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/mpg.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/test_result.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/traffic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/data/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/04_데이터 시각화/images/allcolors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/.ipynb_checkpoints/01_mpg 데이터 분석-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/.ipynb_checkpoints/02_한국 복지 패널 데이터 분석-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/.ipynb_checkpoints/03_타이타닉 사망 생존 데이터 분석-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/.ipynb_checkpoints/04_NBA농구 선수 데이터 분석-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/.ipynb_checkpoints/05_한국사람들은 얼마나 독주를 마실까-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/.ipynb_checkpoints/06_주식정보분석-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/.ipynb_checkpoints/07_맛집 데이터(문자열 다루기 연습)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/.ipynb_checkpoints/08_프로야구 데이터를 통한 동네북 찾기-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/.ipynb_checkpoints/다음-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/.ipynb_checkpoints/타이타닉 101가지 마법-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/01_mpg 데이터 분석.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/02_한국 복지 패널 데이터 분석.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/03_타이타닉 사망 생존 데이터 분석.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/04_NBA농구 선수 데이터 분석.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/05_한국사람들은 얼마나 독주를 마실까.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/06_주식정보분석.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/07_맛집 데이터(문자열 다루기 연습).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/08_프로야구 데이터를 통한 동네북 찾기.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/Untitled1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/.ipynb_checkpoints/boston-checkpoint.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/005930.KS.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/batter_stats_2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/boston.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/boston_new.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/breast_cancer.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/breast_cancer_new.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/chipotle.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/city_people.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/dataset2017.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/drink_test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/drinks.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/grade.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/grade.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/grade10000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/iris.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/korean_stopwords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/market-price-test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/market-price.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/matzipData.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/movies.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/mpg.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/nba_2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/picher_stats_2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/ratings.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/review_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/son_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/son_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/ss_stock.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/test1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/test_result.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/traffic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/used_mobile_phone.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/used_mobile_phone_stopwords.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/users.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/wiki_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data/wiki_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/baseball2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/batter_stats_2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/chipotle.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/drink_test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/drinks.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/korean_stopwords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/market-price-test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/market-price.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/matzipData.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/movies.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/nba_2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/picher_stats_2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/ratings.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/review_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/son_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/son_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/ss_stock.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/used_mobile_phone.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/used_mobile_phone_stopwords.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/users.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/wiki_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/data2/wiki_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/images/date.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/다음.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/05_데이터 분석 실습/타이타닉 101가지 마법.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/06_데이터수집/.ipynb_checkpoints/01_다음영화정보수집-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/06_데이터수집/01_다음영화정보수집.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/06_데이터수집/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/06_데이터수집/daum_movie.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/문법TEST .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/샘플 - 슈퍼 스토어.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/샘플 - 슈퍼 스토어.xls - 주문.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_30_데이터 시각화/시각화 파일 다운로더.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-8월 데이콘/01-Data-Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/7-8월 데이콘/01-Data-Preprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-8월 데이콘/02-Machine Learning &amp; Data Science.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/7-8월 데이콘/02-Machine Learning &amp; Data Science.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-8월 데이콘/03-Advanced Skills.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/7-8월 데이콘/03-Advanced Skills.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-8월 데이콘/[강사님최종본]02-Machine Learning &amp; Data Science.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-8월 데이콘/[강사님풀버전]01-Data-Preprocessing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8월 자연어처리, OpenCV, 텐서플로/1. 자연어처리/NLP_day2_딥러닝교과서_자연어처리2_.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8월 자연어처리, OpenCV, 텐서플로/1. 자연어처리/NLP_day2_딥러닝교과서_자연어처리2_.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8월 자연어처리, OpenCV, 텐서플로/2. openCV/Untitled1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8월 자연어처리, OpenCV, 텐서플로/2. openCV/[강사님]CV_day2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8월 자연어처리, OpenCV, 텐서플로/2. openCV/[강사님]CV_day2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8월 자연어처리, OpenCV, 텐서플로/자연어처리/연습장.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8월 추천시스템/D1_Apriori_FP-Growth 알고리즘.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imogies.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP_day2_딥러닝교과서_자연어처리2_.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T-academy/sklearn/.ipynb_checkpoints/sklearn 머신러닝 기초1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[Project]추천서비스/sent2vec/get_sentence_embeddings_from_pre-trained_models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/[Project]추천서비스/sent2vec/get_sentence_embeddings_from_pre-trained_models.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aaaa.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asdfdsf.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/데이콘/01-Data-Preprocessing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/데이콘/02-Machine Learning &amp; Data Science.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/데이콘/[KFOLD까지]02-Machine Learning &amp; Data Science.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/데이콘/[강사님최종본]02-Machine Learning &amp; Data Science.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/데이콘/[강사님풀버전]01-Data-Preprocessing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/데이콘/[원본]01-Data-Preprocessing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/00. 강의 소개/Python 데이터 분석과 이미지 처리 - 강의 소개.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/01. 행렬의 필요성/Python 데이터 분석과 이미지 처리 - 행렬의 필요성.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/02. 다양한 파이썬 개발 환경 소개/Python 데이터 분석과 이미지 처리 - 다양한 개발 환경 소개.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/03. Numpy의 기본 사용법/Numpy의 기본 사용법.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/03. Numpy의 기본 사용법/Python 데이터 분석과 이미지 처리 - Numpy의 기본 사용법.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/04. Numpy의 연산과 함수/Numpy의 연산과 함수.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/04. Numpy의 연산과 함수/Python 데이터 분석과 이미지 처리 - Numpy의 연산과 함수.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/05. Numpy의 활용/Numpy의 활용.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/05. Numpy의 활용/Python 데이터 분석과 이미지 처리 - Numpy의 활용.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/06. OpenCV 소개 및 기본 사용법/OpenCV 소개 및 기본 사용법.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/06. OpenCV 소개 및 기본 사용법/Python 데이터 분석과 이미지 처리 - OpenCV 소개 및 기본 사용법.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/07. OpenCV 이미지 연산/OpenCV 이미지 연산.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/07. OpenCV 이미지 연산/Python 데이터 분석과 이미지 처리 - OpenCV 이미지 연산.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/08. OpenCV 이미지 변형/OpenCV 이미지 변형.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/08. OpenCV 이미지 변형/Python 데이터 분석과 이미지 처리 - OpenCV 이미지 변형.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/09. OpenCV 이미지 합치기/OpenCV 이미지 합치기.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/09. OpenCV 이미지 합치기/Python 데이터 분석과 이미지 처리 - OpenCV 이미지 합치기.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/10. OpenCV 임계점 처리하기/OpenCV 임계점 처리하기.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/10. OpenCV 임계점 처리하기/Python 데이터 분석과 이미지 처리 - OpenCV 임계점 처리하기.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/11. OpenCV Tracker/OpenCV Tracker.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/11. OpenCV Tracker/Python 데이터 분석과 이미지 처리 - OpenCV Tracker.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/12. OpenCV 도형 그리기/OpenCV 도형 그리기.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/12. OpenCV 도형 그리기/Python 데이터 분석과 이미지 처리 - OpenCV 도형 그리기.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/13. OpenCV Contours/OpenCV Contours.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/13. OpenCV Contours/Python 데이터 분석과 이미지 처리 - OpenCV Contours.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/14. OpenCV Contours 처리/OpenCV Contours 처리.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/14. OpenCV Contours 처리/Python 데이터 분석과 이미지 처리 - OpenCV Contours 처리.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/15. OpenCV Filtering/OpenCV Filtering.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/15. OpenCV Filtering/Python 데이터 분석과 이미지 처리 - OpenCV Filtering.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/16. KNN Algorithm/KNN Algorithm.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/16. KNN Algorithm/Python 데이터 분석과 이미지 처리 - KNN Algorithm.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/17. KNN 숫자 인식 예제/KNN 숫자 인식 예제.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/17. KNN 숫자 인식 예제/Python 데이터 분석과 이미지 처리 - KNN 숫자 인식 예제.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/18. 중급 Captcha Hacking 1 - Problem Define/중급 Captcha Hacking (SCTF 2017 예선) ① Problem Define.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/19. 중급 Captcha Hacking 2 - 데이터 수집과 분석/중급 Captcha Hacking (SCTF 2017 예선) ② 데이터 수집과 분석.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/20. 중급 Captcha Hacking 3 - 데이터 정제/중급 Captcha Hacking (SCTF 2017 예선) ③ 데이터 정제.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/21. 중급 Captcha Hacking 4 - KNN 모델 학습/중급 Captcha Hacking (SCTF 2017 예선) ④ 데이터 정제.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/22. 중급 Captcha Hacking 5 - 해킹 자동화/중급 Captcha Hacking (SCTF 2017 예선) ⑤ 해킹 자동화.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/23. Pandas의 기본 사용법/.ipynb_checkpoints/Pandas의 기본 사용법-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/23. Pandas의 기본 사용법/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/23. Pandas의 기본 사용법/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/23. Pandas의 기본 사용법/Pandas의 기본 사용법.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/23. Pandas의 기본 사용법/Python 데이터 분석과 이미지 처리 - Pandas의 기본 사용법.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/23. Pandas의 기본 사용법/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/23. Pandas의 기본 사용법/Untitled1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/24. Pandas의 연산과 함수/.ipynb_checkpoints/Pandas의 연산과 함수-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/24. Pandas의 연산과 함수/Pandas의 연산과 함수.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/24. Pandas의 연산과 함수/Python 데이터 분석과 이미지 처리 - Pandas의 연산과 함수.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/25. Pandas의 활용/Pandas의 활용.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/25. Pandas의 활용/Python 데이터 분석과 이미지 처리 - Pandas의 활용.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/26. Matplotlib 라이브러리의 기초/Matplotlib 라이브러리의 기초.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/26. Matplotlib 라이브러리의 기초/Python 데이터 분석과 이미지 처리 - Matplotlib 라이브러리의 기초.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/27. Matploblib 라이브러리 다루기/Matplotlib 라이브러리의 다루기.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/27. Matploblib 라이브러리 다루기/Python 데이터 분석과 이미지 처리 - Matplotlib 라이브러리 다루기.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/28. 웹 크롤링/Python 데이터 분석과 이미지 처리 - 웹 크롤링.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/28. 웹 크롤링/웹 크롤링.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/29. 네이버 영화 리뷰 데이터 분석 ① 영화 정보 크롤링/네이버 영화 리뷰 데이터 분석 ① 영화 정보 크롤링.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/29. 네이버 영화 리뷰 데이터 분석 ① 영화 정보 크롤링/네이버 영화 리뷰 데이터 분석 ① 영화 정보 크롤링.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/30. 네이버 영화 리뷰 데이터 분석 ② 데이터 시각화/네이버 영화 리뷰 데이터 분석 ② 데이터 시각화.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/30. 네이버 영화 리뷰 데이터 분석 ② 데이터 시각화/네이버 영화 리뷰 데이터 분석 ② 데이터 시각화.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/fonts/NanumBarunGothic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/digit_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/digits.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/dog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/gray_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/hand_writing_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/image_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/image_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/test/test0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/test/test1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/test/test2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/test/test3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/test/test4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/test/test5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/test/test6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/test/test7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/test/test8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동빈나 강의자료/images/test/test9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/.ipynb_checkpoints/타이타닉연습장1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/.ipynb_checkpoints/2일차_연습장-checkpoint-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/00.[설명]sklearn 구조-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/01.[설명]cost-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/02.[설명]gradient(합성함수미분원리)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/03.[설명]gradient(np.엘리먼트와이즈연산)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/04.linearRegress(설명,predict)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/05. SGD경사하강법(y_predict)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/06.결정계수(r2_score)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/08.다중선형회귀-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/09.다중선형(pipelin_다중공산성)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/10. 선형회귀(기타)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/11. L1_L2_norm-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/12.encoder-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/13.Sigmoid-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/14. logistic 개념-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/15. 로지스틱-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/15. 로지스틱스 예제-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/16.precisioin_recall_f1_ROC-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/17. softmax-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/18.다중분류-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/19.다중분류연습문제-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/1일차_박근웅-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/1일차_연습장-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/1일차_정운채-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/1일차_정찬웅-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/20.knn분류-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/21. 결정트리(decision tree)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/22.나이브베이즈-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/23.SVM-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/24. ensemble-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/26. 이미지분류(MLPClassfier-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/27. 강아지,고양이 이미지분류-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/28. kmeans-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/29. 차원축소-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/2일차_2조-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/2일차_박근웅-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/2일차_성현님-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/2일차_연습장-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/2일차_정운채-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/30. 시계열 예측-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/3일차_1조_3일차 팀과제-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/3일차_2조_3일차 팀과제-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/3일차_과제(4조_근웅)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/3일차_과제-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/3일차_과제_4조_20210721-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/3일차_연습장-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/3일차_예제_근웅행님-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/4일차_연습장-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/4일차_팀과제-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/6일차 예제-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/6일차_팀과제_4조_-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/7일차_과제_정운채_앙상블_딥러닝-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/[강사님,근웅이형예제풀이]29.차원축소-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/[강사님]08.다중선형회귀-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/[강사님]09.다중선형(pipeline_다중공선성)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/[강사님]10.선형회귀(기타)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/[강사님]12. 문자열 encoding-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/[강사님]13.sigmoid-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/[강사님]14.logistic 개념-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/[강사님]15.로지스틱-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/[강사님]16. precision_recall_f1_ROC-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/[강사님]21.결정트리(decision tree)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/[강사님]22.나이브베이즈-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/[강사님]데이터프레임날짜-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/[근웅님예제 답변]15.로지스틱-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/l1-checkpoint.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/.ipynb_checkpoints/연습문제-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/00.[설명]sklearn 구조.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/01.[설명]cost.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/02.[설명]gradient(합성함수미분원리).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/03.[설명]gradient(np.엘리먼트와이즈연산).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/04.linearRegress(설명,predict).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/05. SGD경사하강법(y_predict).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/06.결정계수(r2_score).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/08.다중선형회귀.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/09.다중선형(pipelin_다중공산성).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/10. 선형회귀(기타).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/11. L1_L2_norm.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/12.encoder.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/13.Sigmoid.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/14. logistic 개념.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/15. 로지스틱.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/15. 로지스틱스 예제.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/16.precisioin_recall_f1_ROC.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/17. softmax.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/18.다중분류.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/19.다중분류연습문제.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/20.knn분류.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/21. 결정트리(decision tree).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/22.나이브베이즈.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/23.SVM.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/24. ensemble.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/25.xor(MPLClassfier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/26. 이미지분류(MLPClassfier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/27. 강아지,고양이 이미지분류.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/28. kmeans.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/29. 차원축소.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/30. 시계열 예측.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/7일차_과제_정운채_앙상블_딥러닝.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님,근웅이형예제풀이]29.차원축소.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]08.다중선형회귀.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]09.다중선형(pipeline_다중공선성).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]10.선형회귀(기타).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]12. 문자열 encoding.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]13.sigmoid.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]14.logistic 개념.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]15.로지스틱.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]16. precision_recall_f1_ROC.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]21.결정트리(decision tree).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]22.나이브베이즈.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]24.앙상블.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]25.xor.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]26.이미지분류( mlpclassfier).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]28. kmeans.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]30.시계열예측.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님]데이터프레임날짜.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/[강사님예제풀이]25.xor.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/archive/creditcard.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/.ipynb_checkpoints/1일차_박근웅-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/.ipynb_checkpoints/1일차_연습장-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/.ipynb_checkpoints/1일차_정운채-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/.ipynb_checkpoints/4일차_최종_팀과제-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/.ipynb_checkpoints/5일차_연습문제_18. 다중분류-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/.ipynb_checkpoints/5일차예제_2조_18. 다중분류_연습-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/.ipynb_checkpoints/6일차_예제_iris20.knn분류-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/1일차_박근웅.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/1일차_연습장.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/1일차_정운채.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/1일차_정찬웅.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/2일차_2조.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/2일차_근웅님.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/2일차_박근웅.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/2일차_성현님.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/2일차_연습장.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/2일차_정운채.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/3일차_1조_3일차 팀과제.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/3일차_2조_3일차 팀과제.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/3일차_4조_수정_20210721.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/3일차_5조(7월21일).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/3일차_과제 3조.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/3일차_과제(4조_근웅).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/3일차_과제.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/3일차_과제_4조_20210721.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/3일차_연습장.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/3일차_예제_근웅행님.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/4일차_과제(박근웅).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/5일차_연습문제_18. 다중분류.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/5일차_팀과제_1조_5일차과제(기상청).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/5일차_팀과제_2조_기상청 팀과제.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/5일차_팀과제_3조_날씨예측.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/5일차_팀과제_5일차과제(4조).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/5일차_팀과제_5조_과제_제출용.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/5일차과제(근웅이형).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/6일차 예제.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/sklearnTest/과제모음/6일차_예제_iris20.knn분류.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/titanic_gender_submission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/titanic_test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/titanic_train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/머신러닝/타이타닉연습장1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/6_24_1Crawling_naver_news_list0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/6_24_2Crawling_news_list1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/6_24_3Crawling_news_list2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/6_24_4Crawling_news_list3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/6_24_5Crawling_news_list4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/6_25_6Crawling_news_list5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/6_25_7Crawling_news_list6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/6_25_8Crawling_news_page1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/6_25_9Crawling_news_page2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/6_28_1Crawling_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/Outstanding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/Python_crawling 5..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/Python_crawling4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/Python_crawling_day1_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/Sel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/Selenium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/Selenium2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/Selnenium__1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/TEST.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/Wifi_API.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/dc_chanwoo_god.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/dcgal_crawl_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/dcgal_crawl_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/dcgallchanwoo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/dcgallery_crawling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/knowledge_people.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/natepan_list_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/natepan_page_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/naver list 6.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/naver list 6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/naver_crawling_output.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/naver_openapi_image_crawl_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/naver_openapi_image_crawl_nahonja.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/python6.24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/python_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/python_crawling 1..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/region_code5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/scrawling_day1_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/scrawling_day1_3..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/sdfjlkdfj.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/강사님dcgal_comment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/강사님dcgal_crawl_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/강사님dcgal_crawl_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/강사님get_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/강사님naver_news_list_crawl06_selenium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/강사님pann_crawl_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/강사님pann_crawl_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/예제.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/시각화 이전까지(스크래이핑까지)/질문이요.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1vGBqkjFOXcw8PBGf9gZbJcsIuN" />
+  <component name="ProjectId" id="21C4RbpYTFkF20EjchwSxdccrQU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,19 +573,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fe7fbc5d-b6fd-458a-84f2-1f62e3040b6e" name="Default Changelist" comment="" />
-      <created>1626178738457</created>
+      <changelist id="857bfb76-889b-4386-8fc4-7874bac2fe37" name="Default Changelist" comment="" />
+      <created>1637431728430</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1626178738457</updated>
-      <workItem from="1626178740901" duration="515000" />
-      <workItem from="1626179275957" duration="1571000" />
-      <workItem from="1626180863410" duration="518000" />
+      <updated>1637431728430</updated>
+      <workItem from="1637431731624" duration="118000" />
     </task>
     <servers />
   </component>

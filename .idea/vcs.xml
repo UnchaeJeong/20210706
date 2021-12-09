@@ -2,7 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/7_12_R/R_project" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/python_projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ForU" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/[Project]추천서비스/pyecharts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/[Project]추천서비스/sent2vec" vcs="Git" />
   </component>
 </project>
